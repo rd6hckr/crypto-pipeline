@@ -9,6 +9,11 @@ A production ready data ingestion pipeline that fetches real time cryptocurrency
 - **Storage**: Persists data in a PostgreSQL database with optimized schema
 - **Visualization**: Interactive dashboard built with Plotly Dash
 
+# Dashboard view
+
+![Dashboard Overview](dashboard-screenshot.png)
+![Dashboard Charts](dashboard-screenshot2.png)
+
 ##  Tech Stack
 
 - **Python 3.13** — Core language
