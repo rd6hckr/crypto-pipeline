@@ -1,0 +1,26 @@
+# Ignore environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Docker
+*.log
+
+# Database
+*.sql
+*.dump
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
